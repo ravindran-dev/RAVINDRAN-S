@@ -56,9 +56,8 @@ Ravindran S</a></h1>
 ### Github posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Spam Detection ML App with React & Flask](#)
-- [Building a Handwriting to PDF Converter using ML](#)
-- [Responsive College Website with HTML, CSS, Flexbox & Grid](#)
+- [Deploying a Spam Detection ML App with React & Flask](https://github.com/ravindran-dev/Spam_Scanner-Web_application)
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
