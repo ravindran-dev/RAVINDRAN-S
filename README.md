@@ -16,8 +16,8 @@ Ravindran S</a></h1>
   - **Multi-page Responsive College Website using HTML/CSS**
 
 - 🤝 I’m open to **hackathon collaborations** and **ML project freelancing**.
-
-- 🌱 I’m learning **Full-Stack Development (React.js, Flask)** and **Cloud Deployment (AWS)**.
+  
+- 🌱 I have done **Full-Stack Development (React.js, Flask)**, I’m learning **Machine Learning and **Cloud Deployment (AWS)**.
 
 - 📝 I share my learnings & project updates on **GitHub**.
 
