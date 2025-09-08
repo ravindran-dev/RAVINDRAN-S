@@ -23,7 +23,7 @@ Ravindran S</a></h1>
 
 - 💬 Ask me about **Machine Learning, React.js, Flask, Cloud Deployment**.
 
-- 📫 How to reach me: **ravindrans.dev@gmail.com** (replace with your actual email)
+- 📫 How to reach me: **ravindrans.dev@gmail.com** 
 
 - 📄 Know about my projects: [GitHub Portfolio](https://github.com/ravindran-dev)
 
