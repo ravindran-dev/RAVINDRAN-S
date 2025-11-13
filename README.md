@@ -11,11 +11,11 @@ Ravindran S</a></h1>
 - 🔭 I’m currently pursuing **B.E. in Artificial Intelligence & Machine Learning** at CIT College.
 
 - 🌱 I’m currently working on:
-  - **Email Spam Detection Web App** (React.js + Flask + ML)
+  - **Mining Lca SIH problem statement project** (React.js + Flask + ML)
   - **Handwriting Recognition to PDF Project**
-  - **Multi-page Responsive College Website using HTML/CSS**
+  - **Drone technolgy Hackathon project**
 
-- 🤝 I’m open to **hackathon collaborations** and **ML project freelancing**.
+- 🤝 I’m open to **Hackathon collaborations** and **ML project freelancing**.
   
 - 🌱 I have done **Full-Stack Development (React.js, Flask)**, I’m learning **Machine Learning and **Cloud Deployment (AWS)**.
 
