@@ -5,27 +5,27 @@ Ravindran S</a></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindran&label=Profile%20views&color=0e75b6&style=flat" alt="ravindran" /> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 </a>
 
 - 🔭 I’m currently pursuing **B.E. in Artificial Intelligence & Machine Learning** at CIT College.
 
-- 🌱 I’m currently working on:
+-  I’m currently working on:
   - **Mining Lca SIH problem statement project** (React.js + Flask + ML)
   - **Handwriting Recognition to PDF Project**
   - **Drone technolgy Hackathon project**
 
 - 🤝 I’m open to **Hackathon collaborations** and **ML project freelancing**.
   
-- 🌱 I have done **Full-Stack Development (React.js, Flask)**, I’m learning **Machine Learning and **Cloud Deployment (AWS)**.
+-  I have done **Full-Stack Development (React.js, Flask)**, I’m learning **Machine Learning and **Cloud Deployment (AWS)**.
 
 - 📝 I share my learnings & project updates on **GitHub**.
 
-- 💬 Ask me about **Machine Learning, React.js, Flask, Cloud Deployment**.
+-  Ask me about **Machine Learning, React.js, Flask, Cloud Deployment**.
 
-- 📫 How to reach me: **ravindrans.dev@gmail.com** 
+-  How to reach me: **ravindrans.dev@gmail.com** 
 
-- 📄 Know about my projects: [GitHub Portfolio](https://github.com/ravindran-dev)
+-  Know about my projects: [GitHub Portfolio](https://github.com/ravindran-dev)
 
 <br/>
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
@@ -56,11 +56,12 @@ Ravindran S</a></h1>
 ### Github posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Spam Detection ML App with React & Flask](https://github.com/ravindran-dev/Spam_Scanner-Web_application)
+- [Deploying a Mining LCA project with React & Flask & ML](https://github.com/ravindran-dev/mining-lca-ai.git)
+  
 
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-Credit: [Ravindran](https://github.com/ravindran-dev)  
+Credit: [Ravindran S](https://github.com/ravindran-dev)  
 Last Edited on: 13/08/2025
