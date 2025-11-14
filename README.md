@@ -19,7 +19,7 @@ Ravindran S</a></h1>
   
 -  I have done **Full-Stack Development (React.js, Flask)**, I’m learning **Machine Learning and **Cloud Deployment (AWS)**.
 
-- 📝 I share my learnings & project updates on **GitHub**.
+-  I share my learnings & project updates on **GitHub**.
 
 -  Ask me about **Machine Learning, React.js, Flask, Cloud Deployment**.
 
