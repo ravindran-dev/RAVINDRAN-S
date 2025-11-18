@@ -110,8 +110,7 @@ Ravindran S</a></h1>
 </p>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindran-dev&layout=compact&theme=transparent)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindran-dev&theme=transparent)
 ![Ravindran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravindran-dev&show_icons=true&theme=transparent)
 
 ### Github posts
