@@ -11,9 +11,9 @@ Ravindran S</a></h1>
 - 🔭 I’m currently pursuing **B.E. in Artificial Intelligence & Machine Learning** at CIT College.
 
 -  I’m currently working on:
-  - **Mining Lca SIH problem statement project** (React.js + Flask + ML)
-  - **Handwriting Recognition to PDF Project**
-  - **Drone technolgy Hackathon project**
+    - **Mining Lca SIH problem statement project** (React.js + Flask + ML)
+    - **Handwriting Recognition to PDF Project**
+    - **Drone technolgy Hackathon project**
 
 - 🤝 I’m open to **Hackathon collaborations** and **ML project freelancing**.
   
