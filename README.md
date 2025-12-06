@@ -53,6 +53,14 @@ Ravindran S</a></h1>
 
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindran-dev&theme=tokyonight&hide_border=true" />
+</p>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ravindran-dev&theme=tokyo-night)
+
+
+
 <h3 align="center">   Languages & Tools </h3>
 
 <p align="left">
