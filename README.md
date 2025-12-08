@@ -17,7 +17,7 @@ Ravindran S</a></h1>
 
 - 🤝 I’m open to **Hackathon collaborations** and **ML project freelancing**.
   
--  I have done **Full-Stack Development (React.js, Flask)**, I’m learning **Machine Learning and **Cloud Deployment (AWS)**.
+-  I have done **Full-Stack Development (React.js, Flask)**, I’m learning **Machine Learning** and **Cloud Deployment (AWS)**.
 
 -  How to reach me: **ravindrans.dev@gmail.com** 
 
