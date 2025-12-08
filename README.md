@@ -49,12 +49,22 @@ Ravindran S</a></h1>
 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindran-dev&theme=tokyonight&hide_border=true" />
-</p>
+
+
+
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ravindran-dev&theme=tokyo-night)
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravindran-dev&theme=tokyonight"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravindran-dev&theme=tokyonight"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ravindran-dev&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravindran-dev&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ravindran-dev&theme=tokyonight" />
+</p>
 
 
 <h3 align="center">   Languages & Tools </h3>
