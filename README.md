@@ -50,6 +50,7 @@ Ravindran S</a></h1>
 </p>
 
 
+--- 
 
 
 
@@ -66,6 +67,7 @@ Ravindran S</a></h1>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ravindran-dev&theme=tokyonight" />
 </p>
 
+---
 
 <h3 align="center">   Languages & Tools </h3>
 
@@ -207,9 +209,11 @@ Ravindran S</a></h1>
 
 <br>
 
+---
+
 ![Snake animation](https://raw.githubusercontent.com/ravindran-dev/ravindran-dev/output/pacman-contribution-graph-dark.svg)
 
-
+---
 
 
 
@@ -224,4 +228,4 @@ Ravindran S</a></h1>
 ---
 
 Credit: [Ravindran S](https://github.com/ravindran-dev)  
-Last Edited on: 19/11/2025
+Last Edited on: 9/12/2025
