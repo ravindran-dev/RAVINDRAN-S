@@ -210,9 +210,7 @@ Ravindran S</a></h1>
 ![Snake animation](https://raw.githubusercontent.com/ravindran-dev/ravindran-dev/output/pacman-contribution-graph-dark.svg)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindran-dev&theme=transparent&layout=compact)
-<br>
-![Ravindran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravindran-dev&show_icons=true&theme=transparent)
+
 
 
 ### Github posts
