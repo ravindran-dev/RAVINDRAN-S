@@ -1,28 +1,36 @@
 name: Generate Snake Game
+
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # runs once a day
+  workflow_dispatch:       # allows manual run from Actions tab
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: generate snake svg
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: ravindran-dev
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
-      - uses: actions/upload-artifact@v3
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
         with:
           name: snake
           path: dist/
-      - uses: crazy-max/ghaction-github-pages@v3
+
+      - name: Deploy to GitHub Pages (output branch)
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
