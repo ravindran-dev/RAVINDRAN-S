@@ -52,6 +52,10 @@ Ravindran S</a></h1>
 
 --- 
 
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ravindran-dev&theme=github-dark&ring=bf91f3&fire=bf91f3&currStreakLabel=bf91f3&sideNums=bf91f3&sideLabels=bf91f3&dates=ffffff&hide_border=true" alt="GitHub Streak"/>
+</p>
+
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ravindran-dev&theme=tokyo-night)
