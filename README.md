@@ -8,20 +8,34 @@ Ravindran S</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 </a>
 
--  I’m currently pursuing **B.E. in Artificial Intelligence & Machine Learning** at CIT College.
+- 👋 𝗛𝗲𝘆, 𝗜’𝗺 **𝗥𝗮𝘃𝗶𝗻𝗱𝗿𝗮𝗻 𝗦**
 
--  I’m currently working on:
-    - **Mining Lca SIH problem statement project** (React.js + Flask + ML)
-    - **Handwriting Recognition to PDF Project**
-    - **Drone technolgy Hackathon project**
+𝗣𝘂𝗿𝘀𝘂𝗶𝗻𝗴 **𝗕.𝗘. 𝗶𝗻 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 & 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴**  
+𝗖𝗜𝗧 𝗖𝗼𝗹𝗹𝗲𝗴𝗲
 
-- 🤝 I’m open to **Hackathon collaborations** and **ML project freelancing**.
-  
--  I have done **Full-Stack Development (React.js, Flask)**, I’m learning **Machine Learning** and **Cloud Deployment (AWS)**.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
--  How to reach me: **ravindrans.dev@gmail.com** 
+**𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴**
+- 𝗠𝗶𝗻𝗶𝗻𝗴 𝗟𝗖𝗔 – 𝗦𝗜𝗛 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 *(React • Flask • ML)*
+- 𝗗𝗿𝗼𝗻𝗲 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗛𝗮𝗰𝗸𝗮𝘁𝗵𝗼𝗻
 
--  Know about my projects: [Portfolio](https://ravindran-dev.github.io/)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**𝗢𝗽𝗲𝗻 𝗳𝗼𝗿**
+- Hackathon Collaborations  
+- ML Freelancing Opportunities  
+
+**𝗧𝗲𝗰𝗵 𝗙𝗼𝗰𝘂𝘀**
+- Full-Stack Development (React.js, Flask)  
+- Machine Learning  
+- AWS Cloud Deployment  
+
+**𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼**  
+🔗 https://ravindran-dev.github.io/
+
+**𝗖𝗼𝗻𝘁𝗮𝗰𝘁**  
+ravindrans.dev@gmail.com
+
 
 <br/>
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
