@@ -21,7 +21,7 @@ Ravindran S</a></h1>
 
 -  How to reach me: **ravindrans.dev@gmail.com** 
 
--  Know about my projects: [GitHub Portfolio](https://github.com/ravindran-dev)
+-  Know about my projects: [Portfolio](https://ravindran-dev.github.io/)
 
 <br/>
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
