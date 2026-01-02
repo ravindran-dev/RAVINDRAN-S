@@ -8,7 +8,7 @@ Ravindran S</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 </a>
 
-- 👋 𝗛𝗲𝘆, 𝗜’𝗺 **𝗥𝗮𝘃𝗶𝗻𝗱𝗿𝗮𝗻 𝗦**
+
 
 𝗣𝘂𝗿𝘀𝘂𝗶𝗻𝗴 **𝗕.𝗘. 𝗶𝗻 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 & 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴**  
 𝗖𝗜𝗧 𝗖𝗼𝗹𝗹𝗲𝗴𝗲
@@ -30,12 +30,17 @@ Ravindran S</a></h1>
 - Machine Learning  
 - AWS Cloud Deployment  
 
-**𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼**  
-🔗 https://ravindran-dev.github.io/
+<p align="center">
 
-**𝗖𝗼𝗻𝘁𝗮𝗰𝘁**  
-ravindrans.dev@gmail.com
+<a href="https://ravindran-dev.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-1f2937?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
+<a href="mailto:ravindrans.dev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 
 <br/>
 
