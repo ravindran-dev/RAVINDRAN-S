@@ -203,6 +203,16 @@ Ravindran S</a></h1>
 <a href="https://www.figma.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 </a>
+
+<a href="https://www.rust-lang.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-256x256.png"
+       width="40" height="40" alt="Rust"/>
+</a>
+
+
+
+
+
 <a href="https://go.dev/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
 </a>
